@@ -1,0 +1,172 @@
+.wrap {
+  background: #18529c;
+}
+.wrap .navbar {
+  padding: 0 20px;
+  margin-bottom: 0;
+  background: #18529c;
+  border: 0;
+}
+.wrap .navbar .navbar-header button {
+  border: 1px #000 solid;
+}
+.wrap .navbar .navbar-header img {
+  margin-top: 20px;
+}
+.wrap .navbar .navbar-collapse {
+  margin-left: 15%;
+}
+.wrap .navbar .navbar-collapse .navbar-nav li {
+  margin-right: 20px;
+}
+.wrap .navbar .navbar-collapse .navbar-nav li a {
+  color: #fff;
+}
+.wrap .navbar .navbar-collapse .navbar-nav li.xiala {
+  background: url(../img/images/ds_03.jpg) no-repeat right center;
+  padding-right: 10px;
+}
+.wrap .navbar .navbar-collapse .navbar-nav li.denglu {
+  margin-top: 8px;
+}
+.wrap .navbar .navbar-collapse .navbar-nav li.denglu input {
+  border: 1px #46B8DA solid;
+  width: 75px;
+  height: 32px;
+  background: 0;
+  border-radius: 15px;
+}
+.wrap .navbar .navbar-collapse .navbar-nav li.zhuce {
+  margin-top: 8px;
+}
+.wrap .navbar .navbar-collapse .navbar-nav li.zhuce input {
+  border: 1px #46B8DA solid;
+  width: 107px;
+  height: 32px;
+  border-radius: 15px;
+  background: #16adfb;
+  color: #fff;
+}
+.tu {
+  background: #edeff0;
+}
+.tu .a {
+  padding: 20px 0;
+  margin-bottom: 0;
+}
+.main1 {
+  margin-top: 3%;
+}
+.main1 .container .col-xs-12 {
+  padding-left: 7%;
+  padding-right: 7%;
+  margin-bottom: 50px;
+}
+.main1 .container .col-xs-12 p {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  line-height: 32px;
+}
+.main1 .container .col-xs-12 h6 {
+  clear: both;
+  color: blue;
+}
+.main2 {
+  margin-top: 141px;
+  background: url(../img/cloud-functions.png) no-repeat;
+  background-size: auto 100%;
+}
+.main2 h1 {
+  padding: 82px 0;
+  color: #fff;
+}
+.main2 .container .col-sm-12 {
+  padding: 0 10%;
+  color: #fff;
+}
+.main2 .container .col-sm-12 h4 {
+  padding: 20px 0;
+}
+.main2 .container .col-sm-12 p {
+  border-bottom: 1px #ccc dashed;
+  padding-bottom: 40px;
+}
+.main2 .container .col-sm-12 p.last {
+  border-bottom: 0;
+}
+.main3 {
+  margin-top: 25px;
+}
+.main3 h1 {
+  padding: 60px 0;
+}
+.main3 .col-xs-6 {
+  padding: 0 5%;
+  margin-bottom: 82px;
+}
+.main3 .col-xs-6 h4 {
+  padding: 20px 0;
+}
+.main4 {
+  margin-top: 20px;
+  margin-bottom: 80px;
+}
+.main4 h1 {
+  padding: 64px 0;
+}
+.main4 img {
+  width: 100%;
+  margin-bottom: 40px;
+}
+.main5 {
+  padding-top: 20px;
+  padding-bottom: 72px;
+}
+.main5 h1 {
+  padding: 50px 0;
+}
+.main5 .col-xs-12 {
+  margin-bottom: 60px;
+}
+.main6 {
+  padding: 50px 0;
+  margin-bottom: 50px;
+}
+.main6 .container {
+  padding: 0 20%;
+}
+.main6 .container h4 {
+  padding: 20px 0;
+}
+.footer {
+  background: #0e2335;
+  padding-top: 55px;
+}
+.footer .container {
+  padding: 0 10%;
+}
+.footer .container p {
+  color: #777777;
+}
+.footer .container .row h4 {
+  color: #aabdbd;
+}
+.footer .container .you {
+  color: #777777;
+  margin: 85px 0 70px;
+}
+.footer .container .xia {
+  padding: 30px 0;
+}
+@media (max-width: 991px) {
+  .wrap .navbar .navbar-collapse {
+    margin-left: 0;
+  }
+  .footer .container .dd {
+    height: 200px;
+    width: 250px;
+    margin-right: 30px;
+    border-bottom: 1px #ccc dashed;
+    margin-top: 20px;
+  }
+}
